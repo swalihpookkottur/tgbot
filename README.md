@@ -4,14 +4,14 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved into becoming a basis for modular
 bots aiming to provide simple plugin expansion via a simple drag and drop.
 
-Can be found on telegram as [Marie](https://t.me/BanhammerMarie_bot).
+Can be found on telegram as [owner](https://t.me/swalihpookkottur).
 
 For questions regarding creating your own bot, please head to [this chat](https://t.me/MarieOT) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
 
 
-Join the [news channel](https://t.me/MarieNews) if you just want to stay in the loop about new features or
+Join the [channel](https://t.me/apkfilesstore) if you just want to stay in the loop about new features or
 announcements.
 
 Marie and I can also be found moderating the [marie support group](https://t.me/MarieSupport) aimed at providing help
