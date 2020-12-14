@@ -14,7 +14,7 @@ modified/added (this info can also be found in the commit messages)
 Join the [channel](https://t.me/apkfilesstore) if you just want to stay in the loop about new features or
 announcements.
 
-Marie and I can also be found moderating the [marie support group](https://t.me/MarieSupport) aimed at providing help
+Marie and I can also be found moderating the [our support group](https://t.me/apkstorecommentbox) aimed at providing help
 setting up Marie in your chats (*not* for bot clones).
 Feel free to join to report bugs, and stay in the loop on the status of the bot development.
 
@@ -24,7 +24,7 @@ Note to maintainers that all schema changes will be found in the commit messages
 ## IMPORTANT NOTICE:
 
 This project is no longer under active maintenance. Occasional bug fixes may be released, but no new features are scheduled to be added.
-Users of [Marie](https://t.me/BanhammerMarie_bot) are encouraged to migrate to [Rose](https://t.me/MissRose_bot), which
+Users of [utube downloader bot](https://t.me/utuberrobot) are encouraged to migrate to [Rose](https://t.me/MissRose_bot), which
 is the improved version of this project, written in golang, with scalability in mind.
 
 ## Starting the bot.
